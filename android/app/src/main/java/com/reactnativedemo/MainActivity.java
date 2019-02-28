@@ -2,6 +2,9 @@ package com.reactnativedemo;
 
 import com.facebook.react.ReactActivity;
 
+/**
+ * @author LiuDecai
+ */
 public class MainActivity extends ReactActivity {
 
     /**

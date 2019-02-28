@@ -1,3 +1,3 @@
-rootProject.name = 'ReactNativeDemo'
+rootProject.name = 'RNDemoAndroid'
 
 include ':app'
